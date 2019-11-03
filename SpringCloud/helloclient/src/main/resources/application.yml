@@ -1,7 +1,7 @@
 spring:
   application:
     name: hello-service
-# 指定服务注册中心的地址
+# 鎸囧畾鏈嶅姟娉ㄥ唽涓績鐨勫湴鍧�
 eureka:
   client:
     service-url:
